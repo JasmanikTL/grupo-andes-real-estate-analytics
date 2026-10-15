@@ -1,0 +1,7 @@
+*.pbix
+*.pbit
+*.csv
+.env
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
